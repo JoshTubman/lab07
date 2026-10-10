@@ -1,0 +1,19 @@
+DAYS -  
+Leave as is - 	
+Days is an array of the weekdays that can be reused later on
+
+highs - 
+Leave as is - 
+Highs is a vector that stores the temperatures
+
+DAYS[i] paired with highs[i] - 
+Convert to a struct or collection - 
+Days and temperature belong together and be stored
+
+The value returned by hottest_day - 
+Convert to a struct or collection
+The index could be swapped for a better result that identifies the hottest day and its temperature. 
+
+The threshold 75 
+Leave as is
+The threshold is used to compare the temperatures.
